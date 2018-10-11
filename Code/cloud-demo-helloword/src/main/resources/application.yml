@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: testname
+server:
+  port: 8083
+eureka:
+  clint:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/

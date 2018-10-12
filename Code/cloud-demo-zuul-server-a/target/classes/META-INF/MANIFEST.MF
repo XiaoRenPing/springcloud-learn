@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: cloud-demo-zuul-server-1
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: Administrator
+Built-By: XiaoRenPing
 Implementation-Vendor-Id: cloud-demo-zuul-server-1
-Build-Jdk: 1.8.0_181
+Build-Jdk: 1.8.0_171
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
 
